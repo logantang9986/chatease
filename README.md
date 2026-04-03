@@ -1,7 +1,7 @@
 # ChatEase - Cross-Platform IM System
 
 ## Introduction
-**ChatEase** is a modern, full-stack Instant Messaging (IM) solution designed for seamless communication across multiple platforms. It features a high-performance **Spring Boot** backend and a versatile **React** frontend that supports Web, Desktop (Windows/macOS/Linux), and an Admin Dashboard.
+**ChatEase** is a modern, Instant Messaging (IM) solution designed for seamless communication across multiple platforms. It features a high-performance **Spring Boot** backend and a versatile **React** frontend that supports Web, Desktop (Windows/macOS/Linux), and an Admin Dashboard.
 
 ---
 
